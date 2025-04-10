@@ -1,0 +1,1 @@
+export type TabType = 'dashboard' | 'patients' | 'analytics' | 'workflows' | 'patientProfile' | 'patientForm' | 'medecins' | 'rendezVous' | 'caseStudies' | 'examens'; 
